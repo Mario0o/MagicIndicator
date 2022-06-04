@@ -2,7 +2,9 @@
 
 A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip.
 
-[Flutter_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) Another very good open source project of mine
+[Flutter_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) Another very good open source project of mine.
+
+**I have developed the world's fastest general purpose sorting algorithm, which is on average 3 times faster than Quicksort and up to 20 times faster**, [ChenSort](https://github.com/hackware1993/ChenSort)
 
 [![](https://jitpack.io/v/hackware1993/MagicIndicator.svg)](https://jitpack.io/#hackware1993/MagicIndicator)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MagicIndicator-green.svg?style=true)](https://android-arsenal.com/details/1/4252)
